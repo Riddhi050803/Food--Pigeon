@@ -2,8 +2,9 @@ import { useState } from 'react'
 import Header from './components/Header';
 import Home from './components/Home';
 import CartDetails from './components/CartDetails';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 import {Routes, Route}from "react-router-dom";
 import { Toaster } from 'react-hot-toast';
 
